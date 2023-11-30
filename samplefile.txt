@@ -2,4 +2,5 @@ this is my fourth commit.
 this is my ffith commit.
 this is my going to my next commit.
 new branch texting .
+brachinng merging study.
 
